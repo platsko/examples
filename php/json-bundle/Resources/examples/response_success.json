@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "data": {
+    "prop": [
+      {
+        "name": "Name",
+        "scope": {
+          "foo": 0.01,
+          "bar": 1.00
+        }
+      }
+    ]
+  }
+}
